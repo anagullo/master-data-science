@@ -8,7 +8,10 @@ Poniendo varis líenas, con tíldes y con lo que queramos.
 
 Justo he tocado esta línea en la web.
 
+Vamos a provocar un conflicto.
+
 Más líneas.
 
 Buenos dias de nuevo.
+
 
